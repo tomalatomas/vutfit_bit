@@ -1,0 +1,887 @@
+Start testing: Mar 04 09:18 CET
+----------------------------------------------------------
+1/33 Testing: EmptyTree.Root
+1/33 Test: EmptyTree.Root
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/black_box_test" "--gtest_filter=EmptyTree.Root"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"EmptyTree.Root" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.Root
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.Root
+[       OK ] EmptyTree.Root (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.Root" end time: Mar 04 09:18 CET
+"EmptyTree.Root" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/33 Testing: EmptyTree.FindNode
+2/33 Test: EmptyTree.FindNode
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/black_box_test" "--gtest_filter=EmptyTree.FindNode"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"EmptyTree.FindNode" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.FindNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.FindNode
+[       OK ] EmptyTree.FindNode (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.FindNode" end time: Mar 04 09:18 CET
+"EmptyTree.FindNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/33 Testing: EmptyTree.InsertNode
+3/33 Test: EmptyTree.InsertNode
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/black_box_test" "--gtest_filter=EmptyTree.InsertNode"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"EmptyTree.InsertNode" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.InsertNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.InsertNode
+[       OK ] EmptyTree.InsertNode (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.InsertNode" end time: Mar 04 09:18 CET
+"EmptyTree.InsertNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/33 Testing: EmptyTree.DeleteNode
+4/33 Test: EmptyTree.DeleteNode
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/black_box_test" "--gtest_filter=EmptyTree.DeleteNode"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"EmptyTree.DeleteNode" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.DeleteNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.DeleteNode
+[       OK ] EmptyTree.DeleteNode (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.DeleteNode" end time: Mar 04 09:18 CET
+"EmptyTree.DeleteNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/33 Testing: NonEmptyTree.Root
+5/33 Test: NonEmptyTree.Root
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.Root"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"NonEmptyTree.Root" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.Root
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.Root
+[       OK ] NonEmptyTree.Root (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.Root" end time: Mar 04 09:18 CET
+"NonEmptyTree.Root" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/33 Testing: NonEmptyTree.FindNode
+6/33 Test: NonEmptyTree.FindNode
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.FindNode"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"NonEmptyTree.FindNode" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.FindNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.FindNode
+[       OK ] NonEmptyTree.FindNode (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.FindNode" end time: Mar 04 09:18 CET
+"NonEmptyTree.FindNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/33 Testing: NonEmptyTree.DeleteNode_Root
+7/33 Test: NonEmptyTree.DeleteNode_Root
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode_Root"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"NonEmptyTree.DeleteNode_Root" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode_Root
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode_Root
+[       OK ] NonEmptyTree.DeleteNode_Root (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode_Root" end time: Mar 04 09:18 CET
+"NonEmptyTree.DeleteNode_Root" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/33 Testing: NonEmptyTree.DeleteNode_Forward
+8/33 Test: NonEmptyTree.DeleteNode_Forward
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode_Forward"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"NonEmptyTree.DeleteNode_Forward" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode_Forward
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode_Forward
+[       OK ] NonEmptyTree.DeleteNode_Forward (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode_Forward" end time: Mar 04 09:18 CET
+"NonEmptyTree.DeleteNode_Forward" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/33 Testing: NonEmptyTree.InsertNode
+9/33 Test: NonEmptyTree.InsertNode
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.InsertNode"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"NonEmptyTree.InsertNode" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.InsertNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.InsertNode
+[       OK ] NonEmptyTree.InsertNode (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.InsertNode" end time: Mar 04 09:18 CET
+"NonEmptyTree.InsertNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/33 Testing: TreeAxioms.FirstAxiom
+10/33 Test: TreeAxioms.FirstAxiom
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/black_box_test" "--gtest_filter=TreeAxioms.FirstAxiom"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"TreeAxioms.FirstAxiom" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TreeAxioms.FirstAxiom
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreeAxioms
+[ RUN      ] TreeAxioms.FirstAxiom
+[       OK ] TreeAxioms.FirstAxiom (0 ms)
+[----------] 1 test from TreeAxioms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TreeAxioms.FirstAxiom" end time: Mar 04 09:18 CET
+"TreeAxioms.FirstAxiom" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/33 Testing: TreeAxioms.SecondAxiom
+11/33 Test: TreeAxioms.SecondAxiom
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/black_box_test" "--gtest_filter=TreeAxioms.SecondAxiom"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"TreeAxioms.SecondAxiom" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TreeAxioms.SecondAxiom
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreeAxioms
+[ RUN      ] TreeAxioms.SecondAxiom
+[       OK ] TreeAxioms.SecondAxiom (0 ms)
+[----------] 1 test from TreeAxioms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TreeAxioms.SecondAxiom" end time: Mar 04 09:18 CET
+"TreeAxioms.SecondAxiom" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/33 Testing: TreeAxioms.ThirdAxiom
+12/33 Test: TreeAxioms.ThirdAxiom
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/black_box_test" "--gtest_filter=TreeAxioms.ThirdAxiom"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"TreeAxioms.ThirdAxiom" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TreeAxioms.ThirdAxiom
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreeAxioms
+[ RUN      ] TreeAxioms.ThirdAxiom
+[       OK ] TreeAxioms.ThirdAxiom (0 ms)
+[----------] 1 test from TreeAxioms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TreeAxioms.ThirdAxiom" end time: Mar 04 09:18 CET
+"TreeAxioms.ThirdAxiom" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/33 Testing: MatrixConstructor.ConstructingInvalidMatrixes
+13/33 Test: MatrixConstructor.ConstructingInvalidMatrixes
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.ConstructingInvalidMatrixes"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.ConstructingInvalidMatrixes" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.ConstructingInvalidMatrixes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.ConstructingInvalidMatrixes
+[       OK ] MatrixConstructor.ConstructingInvalidMatrixes (0 ms)
+[----------] 1 test from MatrixConstructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.ConstructingInvalidMatrixes" end time: Mar 04 09:18 CET
+"MatrixConstructor.ConstructingInvalidMatrixes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/33 Testing: MatrixConstructor.ConstructingValidMatrixes
+14/33 Test: MatrixConstructor.ConstructingValidMatrixes
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.ConstructingValidMatrixes"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.ConstructingValidMatrixes" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.ConstructingValidMatrixes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.ConstructingValidMatrixes
+[       OK ] MatrixConstructor.ConstructingValidMatrixes (0 ms)
+[----------] 1 test from MatrixConstructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.ConstructingValidMatrixes" end time: Mar 04 09:18 CET
+"MatrixConstructor.ConstructingValidMatrixes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/33 Testing: MatrixConstructor.SetNonExistingIndexes
+15/33 Test: MatrixConstructor.SetNonExistingIndexes
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.SetNonExistingIndexes"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.SetNonExistingIndexes" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.SetNonExistingIndexes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.SetNonExistingIndexes
+[       OK ] MatrixConstructor.SetNonExistingIndexes (0 ms)
+[----------] 1 test from MatrixConstructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.SetNonExistingIndexes" end time: Mar 04 09:18 CET
+"MatrixConstructor.SetNonExistingIndexes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/33 Testing: MatrixConstructor.SetExistingIndexes
+16/33 Test: MatrixConstructor.SetExistingIndexes
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.SetExistingIndexes"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.SetExistingIndexes" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.SetExistingIndexes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.SetExistingIndexes
+[       OK ] MatrixConstructor.SetExistingIndexes (0 ms)
+[----------] 1 test from MatrixConstructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.SetExistingIndexes" end time: Mar 04 09:18 CET
+"MatrixConstructor.SetExistingIndexes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/33 Testing: MatrixConstructor.GetNonExistingIndexes
+17/33 Test: MatrixConstructor.GetNonExistingIndexes
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.GetNonExistingIndexes"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.GetNonExistingIndexes" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.GetNonExistingIndexes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.GetNonExistingIndexes
+[       OK ] MatrixConstructor.GetNonExistingIndexes (1 ms)
+[----------] 1 test from MatrixConstructor (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.GetNonExistingIndexes" end time: Mar 04 09:18 CET
+"MatrixConstructor.GetNonExistingIndexes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/33 Testing: MatrixConstructor.GettingExistingValues
+18/33 Test: MatrixConstructor.GettingExistingValues
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.GettingExistingValues"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.GettingExistingValues" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.GettingExistingValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.GettingExistingValues
+[       OK ] MatrixConstructor.GettingExistingValues (0 ms)
+[----------] 1 test from MatrixConstructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.GettingExistingValues" end time: Mar 04 09:18 CET
+"MatrixConstructor.GettingExistingValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/33 Testing: MatrixConstructor.OperatorEquals
+19/33 Test: MatrixConstructor.OperatorEquals
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.OperatorEquals"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.OperatorEquals" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.OperatorEquals
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.OperatorEquals
+[       OK ] MatrixConstructor.OperatorEquals (0 ms)
+[----------] 1 test from MatrixConstructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.OperatorEquals" end time: Mar 04 09:18 CET
+"MatrixConstructor.OperatorEquals" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/33 Testing: MatrixConstructor.OperatorPlus
+20/33 Test: MatrixConstructor.OperatorPlus
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.OperatorPlus"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.OperatorPlus" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.OperatorPlus
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.OperatorPlus
+[       OK ] MatrixConstructor.OperatorPlus (0 ms)
+[----------] 1 test from MatrixConstructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.OperatorPlus" end time: Mar 04 09:18 CET
+"MatrixConstructor.OperatorPlus" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/33 Testing: MatrixConstructor.OperatorMinus
+21/33 Test: MatrixConstructor.OperatorMinus
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.OperatorMinus"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.OperatorMinus" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.OperatorMinus
+[==========] Running 0 tests from 0 test suites.
+[==========] 0 tests from 0 test suites ran. (0 ms total)
+[  PASSED  ] 0 tests.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.OperatorMinus" end time: Mar 04 09:18 CET
+"MatrixConstructor.OperatorMinus" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/33 Testing: MatrixConstructor.OperatorMultiplyMatrixes
+22/33 Test: MatrixConstructor.OperatorMultiplyMatrixes
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.OperatorMultiplyMatrixes"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.OperatorMultiplyMatrixes" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.OperatorMultiplyMatrixes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.OperatorMultiplyMatrixes
+[       OK ] MatrixConstructor.OperatorMultiplyMatrixes (0 ms)
+[----------] 1 test from MatrixConstructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.OperatorMultiplyMatrixes" end time: Mar 04 09:18 CET
+"MatrixConstructor.OperatorMultiplyMatrixes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/33 Testing: MatrixConstructor.OperatorMultiplyConstant
+23/33 Test: MatrixConstructor.OperatorMultiplyConstant
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.OperatorMultiplyConstant"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.OperatorMultiplyConstant" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.OperatorMultiplyConstant
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.OperatorMultiplyConstant
+[       OK ] MatrixConstructor.OperatorMultiplyConstant (0 ms)
+[----------] 1 test from MatrixConstructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.OperatorMultiplyConstant" end time: Mar 04 09:18 CET
+"MatrixConstructor.OperatorMultiplyConstant" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/33 Testing: MatrixConstructor.SolveInvalidEquation
+24/33 Test: MatrixConstructor.SolveInvalidEquation
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.SolveInvalidEquation"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.SolveInvalidEquation" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.SolveInvalidEquation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.SolveInvalidEquation
+[       OK ] MatrixConstructor.SolveInvalidEquation (0 ms)
+[----------] 1 test from MatrixConstructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.SolveInvalidEquation" end time: Mar 04 09:18 CET
+"MatrixConstructor.SolveInvalidEquation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/33 Testing: MatrixConstructor.SolveEquation
+25/33 Test: MatrixConstructor.SolveEquation
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.SolveEquation"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.SolveEquation" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.SolveEquation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.SolveEquation
+[       OK ] MatrixConstructor.SolveEquation (1 ms)
+[----------] 1 test from MatrixConstructor (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.SolveEquation" end time: Mar 04 09:18 CET
+"MatrixConstructor.SolveEquation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/33 Testing: MatrixConstructor.SolveEquationInvalidMatrix
+26/33 Test: MatrixConstructor.SolveEquationInvalidMatrix
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/white_box_test" "--gtest_filter=MatrixConstructor.SolveEquationInvalidMatrix"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"MatrixConstructor.SolveEquationInvalidMatrix" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixConstructor.SolveEquationInvalidMatrix
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixConstructor
+[ RUN      ] MatrixConstructor.SolveEquationInvalidMatrix
+[       OK ] MatrixConstructor.SolveEquationInvalidMatrix (0 ms)
+[----------] 1 test from MatrixConstructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixConstructor.SolveEquationInvalidMatrix" end time: Mar 04 09:18 CET
+"MatrixConstructor.SolveEquationInvalidMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/33 Testing: NonEmptyQueue.Insert
+27/33 Test: NonEmptyQueue.Insert
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.Insert"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"NonEmptyQueue.Insert" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.Insert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.Insert
+[       OK ] NonEmptyQueue.Insert (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.Insert" end time: Mar 04 09:18 CET
+"NonEmptyQueue.Insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/33 Testing: NonEmptyQueue.RemoveAllForward
+28/33 Test: NonEmptyQueue.RemoveAllForward
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.RemoveAllForward"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"NonEmptyQueue.RemoveAllForward" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.RemoveAllForward
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.RemoveAllForward
+[       OK ] NonEmptyQueue.RemoveAllForward (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.RemoveAllForward" end time: Mar 04 09:18 CET
+"NonEmptyQueue.RemoveAllForward" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/33 Testing: NonEmptyQueue.RemoveAllBackward
+29/33 Test: NonEmptyQueue.RemoveAllBackward
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.RemoveAllBackward"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"NonEmptyQueue.RemoveAllBackward" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.RemoveAllBackward
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.RemoveAllBackward
+[       OK ] NonEmptyQueue.RemoveAllBackward (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.RemoveAllBackward" end time: Mar 04 09:18 CET
+"NonEmptyQueue.RemoveAllBackward" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/33 Testing: NonEmptyQueue.Find
+30/33 Test: NonEmptyQueue.Find
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.Find"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"NonEmptyQueue.Find" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.Find
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.Find
+[       OK ] NonEmptyQueue.Find (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.Find" end time: Mar 04 09:18 CET
+"NonEmptyQueue.Find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/33 Testing: EmptyQueue.Insert
+31/33 Test: EmptyQueue.Insert
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/tdd_test" "--gtest_filter=EmptyQueue.Insert"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"EmptyQueue.Insert" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyQueue.Insert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyQueue
+[ RUN      ] EmptyQueue.Insert
+[       OK ] EmptyQueue.Insert (0 ms)
+[----------] 1 test from EmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyQueue.Insert" end time: Mar 04 09:18 CET
+"EmptyQueue.Insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/33 Testing: EmptyQueue.Remove
+32/33 Test: EmptyQueue.Remove
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/tdd_test" "--gtest_filter=EmptyQueue.Remove"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"EmptyQueue.Remove" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyQueue.Remove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyQueue
+[ RUN      ] EmptyQueue.Remove
+[       OK ] EmptyQueue.Remove (0 ms)
+[----------] 1 test from EmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyQueue.Remove" end time: Mar 04 09:18 CET
+"EmptyQueue.Remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/33 Testing: EmptyQueue.Find
+33/33 Test: EmptyQueue.Find
+Command: "/homes/eva/xt/xtomal02/IVS/assignment/build/tdd_test" "--gtest_filter=EmptyQueue.Find"
+Directory: /homes/eva/xt/xtomal02/IVS/assignment/build
+"EmptyQueue.Find" start time: Mar 04 09:18 CET
+Output:
+----------------------------------------------------------
+Running main() from /homes/eva/xt/xtomal02/IVS/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyQueue.Find
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyQueue
+[ RUN      ] EmptyQueue.Find
+[       OK ] EmptyQueue.Find (0 ms)
+[----------] 1 test from EmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyQueue.Find" end time: Mar 04 09:18 CET
+"EmptyQueue.Find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 04 09:18 CET

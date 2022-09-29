@@ -1,0 +1,51 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /homes/eva/xt/xtomal02/IVS/assignment/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_3df69/fast"
+/bin/gmake -f CMakeFiles/cmTC_3df69.dir/build.make CMakeFiles/cmTC_3df69.dir/build
+gmake[1]: Entering directory `/homes/eva/xt/xtomal02/IVS/assignment/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3df69.dir/CheckSymbolExists.c.o
+/usr/local/bin/cc   -g -O0 -fprofile-arcs -ftest-coverage    -o CMakeFiles/cmTC_3df69.dir/CheckSymbolExists.c.o   -c /homes/eva/xt/xtomal02/IVS/assignment/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_3df69
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3df69.dir/link.txt --verbose=1
+/usr/local/bin/cc  -g -O0 -fprofile-arcs -ftest-coverage     -rdynamic CMakeFiles/cmTC_3df69.dir/CheckSymbolExists.c.o  -o cmTC_3df69 
+CMakeFiles/cmTC_3df69.dir/CheckSymbolExists.c.o: In function `main':
+/homes/eva/xt/xtomal02/IVS/assignment/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8: undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_3df69] Error 1
+gmake[1]: Leaving directory `/homes/eva/xt/xtomal02/IVS/assignment/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_3df69/fast] Error 2
+
+File /homes/eva/xt/xtomal02/IVS/assignment/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /homes/eva/xt/xtomal02/IVS/assignment/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_e747d/fast"
+/bin/gmake -f CMakeFiles/cmTC_e747d.dir/build.make CMakeFiles/cmTC_e747d.dir/build
+gmake[1]: Entering directory `/homes/eva/xt/xtomal02/IVS/assignment/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e747d.dir/CheckFunctionExists.c.o
+/usr/local/bin/cc   -g -O0 -fprofile-arcs -ftest-coverage -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_e747d.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_e747d
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e747d.dir/link.txt --verbose=1
+/usr/local/bin/cc  -g -O0 -fprofile-arcs -ftest-coverage -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_e747d.dir/CheckFunctionExists.c.o  -o cmTC_e747d -lpthreads 
+/usr/local/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_e747d] Error 1
+gmake[1]: Leaving directory `/homes/eva/xt/xtomal02/IVS/assignment/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_e747d/fast] Error 2
+
+

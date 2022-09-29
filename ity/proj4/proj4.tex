@@ -1,0 +1,69 @@
+\documentclass[a4paper, 11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[left=2cm,text={17cm, 24cm},top=3cm]{geometry}
+\usepackage{times}
+\usepackage[czech]{babel}
+\usepackage{etoolbox}
+\apptocmd{\sloppy}{\hbadness 10000\relax}{}{}
+
+
+
+\begin{document}
+ \begin{titlepage} 
+    \begin{center}
+        \thispagestyle{empty}
+        \Huge \textsc{Vysoké učení technické v Brně}\\
+        \huge \textsc{Fakulta informačních technologií}
+
+        \vspace{\stretch{0.382}}
+
+        \LARGE Typografie a publikování – 4. projekt
+
+        \Huge OLED
+        \vspace{\stretch{0.618}}
+        \end{center}
+    {\Large \today  \hfill Tomáš Tomala (xtomal02)}
+ \end{titlepage}
+
+\section*{Úvod} 
+I když jsme se o organických \uv{ledkách} mohli dočíst v odborných časopisech již v roce 2004 \cite{MaximumPC}, jejich využití na trhu jsme pořádně mohli spatřit až v posledních letech. Jsou to polovodičové součástky o velikost 100 nm a~500 nm, které vyzařují světlo \cite{BartosikThesis}.
+
+Průmysl s nejnovějším typem diod se ale teprve rozvíjí a je v rané etapě. Trh je v tento moment monopolizován firmami Samsung a LG \cite{MarkShar}.
+
+\section{Využití}
+
+Využití se našlo hlavně v odvětví mobilních telefonů, televizí a monitorů. Téměř každá vlajková loď výrobce chytrých telefonů je v této době osazena displejem s OLED technologií. 
+
+OLED displeje díky své možnosti ohnutí jsou perfektním produktem pro požadavky moderního telefonu s malými rámečky \cite{OLEDINFO}. Také u televize můžeme narazit na OLED displej. Díky této technologie nyní máme prohnuté obrazovky monitorů a televizí, které nabízí dechberoucí divácký zážitek.
+\section{Konstrukce}
+V diodě jsou 2 základní vrstvy: Anoda a katoda \cite{HruskaThesis}. Mezi tyto vrstvy jsou umístněny organické vrstvy, které pomáhají přepravovat \uv{díry} od anody a elektrony od katody. Na diodu je poté přidána podpůrná vrstva, někdy nazývána substrát.
+
+Známe 2 nejdůležitější typy konstrukcí OLED displejů: PMOLED a AMOLED \cite{FundandAppls}.
+\subsection{PMOLED}
+Každý řádek displeje je ovládán jako celek. Výsledek je jednoduché řízení displeje a malá výrobní cena.\\
+Nevýhoda tohoto typu je neefektivita oproti AMOLED typu a limit rozlišení displeje \cite{PCMag}.
+\subsection{AMOLED}
+Displeje AMOLED jsou také řízeny po řádku. Narozdíl od PMOLED ale AMOLED displej obsahuje na každý řádek kapacitor, který se stará o stavy jednotlivých pixelů \cite{DispandLight}. Výrobní cena a efektivita je vyšší. Limit na rozlišení displeje je odstraněn.
+\section{Charakteristika}
+\subsection{Výhody}
+\begin{itemize}
+        \setlength\itemsep{0.05em}
+        \item perfektní pozorovací úhly \cite{PACOLED},
+        \item velmi energeticky úsporné \cite{ElekCasop},
+        \item možnost perfektní černé. U typu AMOLED se pixel dokáže při černé úplně vypnout,
+        \item ohebnost.
+    \end{itemize}
+\subsection{Nevýhody}
+\begin{itemize}
+        \setlength\itemsep{0.05em}
+        \item náročnější a dražší výrobní proces,
+        \item modré diody mají oproti zelené a červené násobně menší žívotnost \cite{MaximumPC}.
+    \end{itemize}
+  
+ \newpage
+ \renewcommand{\refname}{Literatura}
+ \bibliography{lit}
+ \bibliographystyle{czechiso}
+
+
+\end{document}

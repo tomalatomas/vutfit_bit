@@ -1,0 +1,116 @@
+\documentclass[a4paper, 11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[left=1.5cm,text={18cm, 25cm},top=2.5cm]{geometry}
+\usepackage[czech]{babel}
+\usepackage [IL2] {fontenc}
+\usepackage{times}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{amssymb} 
+\usepackage{mathtools}
+\newtheorem{definice}{Definice}
+\newtheorem{veta}{Věta}
+\begin{document}
+ \begin{titlepage} 
+    \begin{center}
+        \thispagestyle{empty}
+        \Huge \textsc{Fakulta informačních technologií}
+
+        \textsc{Vysoké učení technické v Brně}
+        \vspace{\stretch{0.382}}
+
+        \LARGE Typografie a publikování – 2. projekt
+
+        Sazba dokumentů a matematických výrazů
+        \vspace{\stretch{0.618}}
+        \end{center}
+    {\Large 2020  \hfill Tomáš Tomala (xtomal02)}
+ \end{titlepage}
+    \newpage
+\pagenumbering{arabic} 
+\twocolumn
+\section*{Úvod}
+V této úloze si vyzkoušíme sazbu titulní strany, matematických vzorců, prostředí a dalších textových struktur obvyklých pro technicky zaměřené texty (například rovnice (2) nebo Definice 2 na straně 1). Pro vytvoření těchto odkazů používáme příkazy \verb|\label|, \verb|\ref| a \verb|\pageref|.
+
+Na titulní straně je využito sázení nadpisu podle optického středu s využitím zlatého řezu. Tento postup byl probírán na přednášce. Dále je použito odřádkování se zadanou relativní velikostí 0.4em a 0.3em.
+\section{Matematický text}
+Nejprve se podíváme na sázení matematických symbolů a~výrazů v plynulém textu včetně sazby definic a vět s využitím balíku \verb|amsthm|. Rovněž použijeme poznámku pod čarou s použitím příkazu \verb|\footnote|. Někdy je vhodné
+použít konstrukci \verb|${}$| nebo \verb|\mbox{}| která říká, že
+(matematický) text nemá být zalomen. V následující definici je nastavena mezera mezi jednotlivými položkami
+\verb|\item| na 0.05em.
+
+\begin{definice}
+    \textnormal{Turingův stroj (TS)} je definován jako šestice tvaru M = ($Q$, $\Sigma$, $\Gamma$, $\delta$,$q_0$,$q_F$), kde:
+    \begin{itemize}
+        \setlength\itemsep{0.05em}
+        \item $Q$ je konečná množina \textnormal{vnitřních (řídicích) stavů,}
+        \item $\Sigma$ je konečná množina symbolů nazývaná \textnormal{vstupní abeceda,} $\Delta$ $\notin$ $\Sigma$
+        \item $\Gamma$ je konečná množina symbolů,  $\Sigma$ $\subset$ $\Gamma$,  $\Delta$ $\in$ $\Gamma$ nazývaná \textnormal{pásková abeceda},
+        \item $\delta:\left(Q\backslash\left\{q_F\right\}\right)\times\Gamma\rightarrow Q\times(\Gamma\cup\{L, R\}), kde \, L,R\notin \Gamma,$ je parciální \textnormal{přechodová funkce, a}
+        %\mbox{\delta :(Q\backslash\{q_F\})\times\Gamma \rightarrow Q \times(\Gamma\cup \{L,R\}), kde L,R \notin \Gamma} 
+        \item $q_0$ $\in$ $Q$ je počáteční stav a $q_f$ $\in$ $Q \, je$ \textnormal{koncový stav}.
+    \end{itemize}
+\end{definice}
+Symbol $\Delta$ značí tzv. \emph{blank} (prázdný symbol), který se vyskytuje na místech pásky, která nebyla ještě použita.
+
+\emph{Konfigurace pásky} se skládá z nekonečného řetězce, který reprezentuje obsah pásky a pozice hlavy na tomto řetězci. Jedná se o prvek množiny $\{\gamma \Delta^\omega $ \textbar~$\gamma \in \Gamma^*\} \times \mathbb{N}^1$.
+\emph{Konfiguraci pásky} obvykle zapisujeme jako $\Delta xyz$\underline{$z$}$x\Delta$... (podtržení značí pozici hlavy). \emph{Konfigurace stroje} je pak dána stavem řízení a konfigurací pásky. Formálně se jedná o prvek množiny $Q\times\{\gamma \Delta^\omega $ \textbar~$ \gamma \in \Gamma^*\} \times \mathbb{N}$.
+\subsection{Podsekce obsahující větu a odkaz}
+
+\begin{definice}
+    \textnormal{Řetězec $\omega$ nad abecedou $\Sigma$ je přijat TS} $M$ jestliže $M$ při aktivaci z počáteční konfigurace pásky
+    \footnotetext[1]{Pro libovolnou abecedu $\Sigma$ je $\Sigma^\omega$ množina všech \emph{nekonečných} řetězců nad $\Sigma$, tj. nekonečných posloupností symbolů ze $\Sigma$.}
+    \underline{$\Delta$}$\omega\Delta$ ... a počátečního stavu $q_0$ zastaví přechodem do
+    koncového stavu $q_F$, tj. $\left(q_0,\Delta\omega\Delta^\omega,0\right) \underset{M}{\overset{*}{\vdash}} \left(q_F,\gamma,n\right) $ pro nějaké $\gamma \in \Gamma^* a\,n \in \mathbb{N}$.
+    
+    Množinu $L$($M$)=\{$\omega$ \textbar~$\omega$ je přijat TS $M$\} $\subseteq$ $\Sigma^*$ nazýváme \textnormal{jazyk přijímaný TS} $M$.
+\end{definice}
+
+Nyní si vyzkoušíme sazbu vět a důkazů opět s použitím
+balíku \verb|amsthm|.
+\begin{veta}
+Třída jazyků, které jsou přijímány TS, odpovídá \textnormal{rekurzivně vyčíslitelným jazykům.}
+
+
+\begin{proof}
+V důkaze vyjdeme z Definice 1 a 2.
+\end{proof}
+\end{veta}
+\section{Rovnice}
+Složitější matematické formulace sázíme mimo plynulý text. Lze umístit několik výrazů na jeden řádek, ale pak je třeba tyto vhodně oddělit, například příkazem \verb|\quad|.
+$$
+    \sqrt[i]{x_i^3} \quad \textnormal{kde}\,
+     x_i \, \textnormal{je}\,i\textnormal{-té sudé číslo} \quad y_i^{2\cdot y_i} \neq y_i^{y_i^{y_i}} 
+$$
+
+V rovnici (1) jsou využity tři typy závorek s různou
+explicitně definovanou velikostí.
+\begin{align}
+    x &= \left\{ \Big(\big[a + b\big] * c\Big)^d \oplus 1 \right\} \\
+    y &= \lim_{x \to \infty} \frac{\sin^2x+\cos^2x}{\frac{1}{\log_{10} x}}
+\end{align}
+
+V této větě vidíme, jak vypadá implicitní vysázení limity $\lim_{x \to \infty} f(n)$ v normálním odstavci textu. Podobně je to i s dalšími symboly jako $\sum_{i=1}^{n} 2^{i}$ či $\bigcap_{A\in B} A$. V~případě vzorců $\displaystyle\lim_{x \to \infty} f(n) $ a $\sum\limits_{i=1}^{n} 2^{i}$
+jsme si vynutili méně úspornou sazbu příkazem \verb|\limits|.
+
+\section{Matice}
+Pro sázení matic se velmi často používá prostředí \verb|array| a závorky $\left(\verb|\left|, \verb|\right|\right)$.
+$$
+\begin{pmatrix}
+a+b&\widehat{\xi+\omega}&\hat{\pi}\\
+\vec{a}&\overleftrightarrow{AC}&\beta
+\end{pmatrix}
+= 1 \Longleftrightarrow \mathbb{Q} = \mathcal{R}
+$$
+Prostředí \verb|array| lze úspěšně využít i jinde.
+
+$$
+\begin{pmatrix}
+n\\
+k
+\end{pmatrix}
+=\left\{ \begin{array}{ll}
+         0 & \mbox{pro $k < 0$ nebo $ k > n$}\\
+        \frac{n!}{k!\left(n-k\right)!} & \mbox{pro $0 \leq k \leq n$}.\end{array} \right.
+$$
+\end{document}

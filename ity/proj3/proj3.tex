@@ -1,0 +1,285 @@
+\documentclass[a4paper, 11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[left=2cm,text={17cm, 24cm},top=3cm]{geometry}
+\usepackage{times}
+\usepackage[czech]{babel}
+\usepackage[unicode]{hyperref}
+\usepackage{multirow}
+\usepackage{algorithmic}
+\usepackage[czech,ruled,linesnumbered,longend,noline]{algorithm2e}
+\usepackage{graphics}
+\usepackage{pdflscape}
+
+
+
+\begin{document}
+ \begin{titlepage} 
+    \begin{center}
+        \thispagestyle{empty}
+        \Huge \textsc{Vysoké učení technické v Brně}\\
+        \huge \textsc{Fakulta informačních technologií}
+
+        \vspace{\stretch{0.382}}
+
+        \LARGE Typografie a publikování – 3. projekt
+
+        \Huge Tabulky a obrázky
+        \vspace{\stretch{0.618}}
+        \end{center}
+    {\Large 20. března 2020  \hfill Tomáš Tomala (xtomal02)}
+ \end{titlepage}
+    \newpage
+    \pagenumbering{arabic}
+\section{Uvodní strana}
+        Název práce umístěte do zlatého řezu a nezapomeňte uvést dnešní datum a vaše jméno a příjmení.
+\section{Tabulky}
+        Pro sázení tabulek můžeme použít buď prostředí \verb|tabbing| nebo prostředí \verb|tabular|.
+    \subsection{Prostředí \texttt{tabbing}}
+        Při použití \verb|tabbing| vypadá tabulka následovně:
+        \begin{tabbing}
+            \hspace{1in} \= \hspace{0.50in}  \= \hspace{0.50in} \kill
+            \textbf{Ovoce} \> \textbf{Cena} \> \textbf{Množství}\\ 
+            Jablka \> 25,90 \> 3 kg  \\
+            Hrušky \> 27,40 \>  2,5 kg\\
+            Vodní melouny \> 35,– \> 1 kus \\
+        \end{tabbing}
+        Toto prostředí se dá také použít pro sázení algoritmů, ovšem vhodnější je použít prostředí \verb|algorithm| nebo \verb|algorithm2e| (viz sekce 3).
+    \subsection{Prostředí \texttt{tabular}}
+        Další možností, jak vytvořit tabulku, je použít prostředí \verb|tabular|. Tabulky pak budou vypadat takto\footnote{Kdyby byl problem s \texttt{cline}, zkuste se podívat třeba sem: \href{http://www.abclinuxu.cz/tex/poradna/show/325037}{http://www.abclinuxu.cz/tex/poradna/show/325037}.}:
+        \begin{table}[ht]
+            \catcode`\-=12 
+            \begin{center}
+                \begin{tabular}{| c | c | c |} \hline 
+                    & \multicolumn{2}{|c|}{\textbf{Cena}} \\ 
+                    \cline{2-3}
+                    \textbf{Měna} & \textbf{nákup} & \textbf{prodej} \\ \hline
+                    EUR & 26,887 & 28,465\\
+                    GBP & 28,710 & 30,352\\
+                    USD & 24.922 & 26.359\\ \hline
+                \end{tabular}
+                \caption{Tabulka kurzů k dnešnímu dni}
+                \label{tabKurzu}
+            \end{center}
+        \end{table}
+        
+       \begin{table}[ht]
+    \begin{center}
+        \begin{tabular}{|c|c|}
+        \hline
+        $A$          & $\neg A$ \\ \hline
+        \textbf{P} & N \\ \hline
+        \textbf{O} & O \\ \hline
+        \textbf{X} & X \\ \hline
+        \textbf{N} & P \\ \hline
+        \end{tabular}
+        \catcode`\-=12 
+        \begin{tabular}{|c|c|c|c|c|c|} \hline
+        \multicolumn{2}{|c|}{\multirow{2}{*}{$ A \wedge B $}} & \multicolumn{4}{c|}{$B$} \\ \cline{3-6} 
+        \multicolumn{2}{|c|}{}   & \textbf{P} & \textbf{O} & \textbf{X} & \textbf{N} \\\hline
+        \multirow{4}{*}{$ A $}   & \textbf{P} & P & O & X & N \\\cline{2-6} 
+                                 & \textbf{O }& O & O & N & N \\ \cline{2-6} 
+                                 & \textbf{X} & X & N & X & N \\ \cline{2-6} 
+                                 & \textbf{N} & N & N & N & N \\ \hline
+        \end{tabular}
+        \begin{tabular}{|c|c|c|c|c|c|} \hline
+        \multicolumn{2}{|c|}{\multirow{2}{*}{$A \vee B$}} & \multicolumn{4}{c|}{$B$} \\ \cline{3-6} 
+        \multicolumn{2}{|c|}{}   & \textbf{P} & \textbf{O} & \textbf{X} & \textbf{N} \\\hline
+        \multirow{4}{*}{$ A $}   & \textbf{P} & P & P & P & P \\\cline{2-6} 
+                                 & \textbf{O }& P & O & P & O \\ \cline{2-6} 
+                                 & \textbf{X} & P & P & X & X \\ \cline{2-6} 
+                                 & \textbf{N} & P & O & X & N \\ \hline
+        \end{tabular}
+          \begin{tabular}{|c|c|c|c|c|c|} \hline
+        \multicolumn{2}{|c|}{\multirow{2}{*}{$A \rightarrow B$}} & \multicolumn{4}{c|}{$B$} \\ \cline{3-6} 
+        \multicolumn{2}{|c|}{}   & \textbf{P} & \textbf{O} & \textbf{X} & \textbf{N} \\\hline
+        \multirow{4}{*}{$ A $}& \textbf{P} & P & O & X & N \\\cline{2-6} 
+                              & \textbf{O }& P & O & P & O \\ \cline{2-6} 
+                              & \textbf{X} & P & P & X & X \\ \cline{2-6} 
+                              & \textbf{N} & P & P & P & P \\ \hline
+        \end{tabular}
+        \end{center}
+        \end{table}
+        
+        
+    Tabulka 2: Protože Kleeneho trojhodnotová logika už je \uv{zastaralá}, uvádíme si zde příklad čtyřhodnotové logiky
+\newpage
+\section{Algoritmy}
+    Pokud budeme chtít vysázet algoritmus, můžeme použít prostředí \verb|algorithm|\footnote{
+    \mbox{Pro nápovědu, jak zacházet s prostředím \texttt{algorithm}, můžeme zkusit tuhle stránku:}\\
+    \href{http://ftp.cstug.cz/pub/tex/CTAN/macros/latex/contrib/algorithms/algorithms.pdf}{http://ftp.cstug.cz/pub/tex/CTAN/macros/latex/contrib/algorithms/algorithms.pdf}} nebo \verb|algorithm2e|\footnote{Pro algorithm2e zase tuhle:
+    \href{http://ftp.cstug.cz/pub/tex/CTAN/macros/latex/contrib/algorithm2e/algorithm2e.pdf}{http://ftp.cstug.cz/pub/tex/CTAN/macros/latex/contrib/algorithm2e/algorithm2e.pdf}}. \\
+    Příklad použití prostředí \verb|algorithm2e| viz Algoritmus 1.
+
+\begin{algorithm}
+    \SetKwFor{For}{for}{do}{end for}
+    \KwIn{$\left(X_{t-1},u_t,z_t\right)$}
+    \KwOut{$X_{t}$}
+    \SetKw{KwRet}{return}
+    \SetNlSty{textnormal}{}{:}
+
+    \caption{\textsc{FastSLAM}}
+    \BlankLine
+    $\overline{X_{t}}=X_{t}=0$\\
+    \For{$k = 1$ to $M$}{ 
+    $x^{[k]}_{t} = sample\_motion\_model  (u_t, x^{[k]}_{t-1})$\\
+    $\omega^{[k]}_{t} = measurement\_model  (z_{t}, x^{[k]}_{t}, m_{t-1})$\\
+    $m^{[k]}_{t} = updated\_occupancy\_grid (z_{t}, x^{[k]}_{t}, m^{[k]}_{t-1})$\\
+    $\overline{X_{t}} = \overline{X_{t}} + \langle x^{[m]}_{x} , \omega^{[m]}_{t}\rangle$}{}
+    \For{$k = 1$ to $M$}{
+    draw $i$ with probability $\approx \omega^{[i]}_{t}$\\
+    add $\langle x^{[k]}_{x} , m^{[k]}_{t}\rangle$ to $X_{t}$}{}
+    \KwRet{$X_{t}$}
+\end{algorithm}
+\section{Obrázky}
+Do našich článků můžeme samozřejmě vkládat obrázky. Pokud je obrázkem fotografie, můžeme klidně použít bitmapový soubor. Pokud by to ale mělo být nějaké schéma nebo něco podobného, je dobrým zvykem takovýto obrázek tvořit vektorově.
+
+\begin{figure}[ht]
+    \begin{center}
+        \scalebox{0.4}{\includegraphics{etiopan.eps}\reflectbox{\includegraphics{etiopan.eps}}}
+    \end{center}
+    \caption{Malý Etiopánek a jeho bratřícek}
+    \label{etiop}
+\end{figure}
+	
+Rozdíl mezi vektorovým . . .
+\begin{figure}[ht]
+    \begin{center}
+        \scalebox{0.4}{\includegraphics{oniisan.eps}}
+        \caption{Vektorový obrázek}
+        \label{vektr}
+    \end{center}
+\end{figure}
+
+. . . a bitmapovým obrázkem
+
+\begin{figure}[ht]
+    \begin{center}
+        \scalebox{0.6}{\includegraphics{oniisan2.eps}}
+        \caption{Bitmapový obrázek}
+        \label{bitmap}
+    \end{center}
+\end{figure}
+
+se projeví například při zvětšení.
+
+Odkazy (nejen ty) na obrázky 1, 2 a 3, na  
+tabulky 1 a 2 a také na algoritmus 1 jsou udělány pomocí 
+křížových odkazů. Pak je ovšem potřeba zdrojový soubor přeložit dvakrát.
+
+Vektorové obrázky lze vytvořit i přímo v \LaTeX u, například pomocí prostředí 
+\verb|picture|.
+
+      \newpage
+
+\begin{landscape}
+    \begin{figure}[ht]
+        \begin{center}
+        \setlength{\unitlength}{1mm}
+        \begin{picture}(200,150)
+            \put(0,0){\linethickness{1pt}\framebox(200,150){}}
+            %slunce
+            \put(180,130){\circle{20}}
+            \linethickness{1.5mm}
+            \put(4,15){\line(1,0){190}}
+            \linethickness{0.5mm}
+            
+            \put(50,15){\line(0,0){90}}
+            \put(90,15){\line(0,0){90}}
+            \put(180,15){\line(0,0){90}}
+            \put(25,15){\line(0,0){35}}
+            \put(25,65){\line(0,0){35}}
+            \put(25,95){\line(-2,1){10}}
+
+            \put(15,50){\line(1,0){35}}
+            \put(15,65){\line(1,0){35}}
+            \put(15,50){\line(0,0){15}}
+            
+
+            
+            \put(90,50){\line(1,0){90}}
+            \put(90,65){\line(1,0){90}}
+            %Okno
+            \put(95,70){\line(1,0){80}}
+            \put(95,95){\line(1,0){80}}
+            \put(95,70){\line(0,0){25}}
+            \put(175,70){\line(0,0){25}}
+            %Odraz na okne
+            \put(150,75){\line(-2,1){25}}
+            \put(145,75){\line(-2,1){15}}
+            \put(150,77){\line(-2,1){15}}
+             %Dvere
+            \put(57,45){\line(1,0){25}}
+            \put(57,15){\line(0,0){30}}
+            \put(82,15){\line(0,0){30}}
+            \put(69,15){\line(0,0){30}}
+            \put(69,30){\line(1,0){3}}
+            \put(66,30){\line(1,0){3}}
+            %Strecha
+            \put(15,100){\line(1,0){35}}
+            \put(15,105){\line(1,0){165}}
+            %Oblozeni strechy
+            \put(15,100){\line(0,0){5}}
+            \put(20,100){\line(0,0){5}}
+            \put(25,100){\line(0,0){5}}
+            \put(30,100){\line(0,0){5}}
+            \put(35,100){\line(0,0){5}}
+            \put(40,100){\line(0,0){5}}
+            \put(45,100){\line(0,0){5}}
+            \put(50,100){\line(0,0){5}}
+            \put(95,100){\line(0,0){5}}
+            \put(100,100){\line(0,0){5}}
+            \put(105,100){\line(0,0){5}}
+            \put(110,100){\line(0,0){5}}
+            \put(115,100){\line(0,0){5}}
+            \put(120,100){\line(0,0){5}}
+            \put(125,100){\line(0,0){5}}
+            \put(130,100){\line(0,0){5}}
+            \put(135,100){\line(0,0){5}}
+            \put(140,100){\line(0,0){5}}
+            \put(145,100){\line(0,0){5}}
+            \put(150,100){\line(0,0){5}}
+            \put(155,100){\line(0,0){5}}
+            \put(160,100){\line(0,0){5}}
+            \put(165,100){\line(0,0){5}}
+            \put(170,100){\line(0,0){5}}
+            \put(175,100){\line(0,0){5}}
+            \put(180,100){\line(0,0){5}}
+            \put(90,100){\line(1,0){90}}
+            %Oblozeni stredu
+            \put(20,50){\line(0,0){15}}
+            \put(25,50){\line(0,0){15}}
+            \put(30,50){\line(0,0){15}}
+            \put(35,50){\line(0,0){15}}
+            \put(40,50){\line(0,0){15}}
+            \put(45,50){\line(0,0){15}}
+            \put(50,50){\line(0,0){15}}
+            \put(95,50){\line(0,0){15}}
+            \put(100,50){\line(0,0){15}}
+            \put(105,50){\line(0,0){15}}
+            \put(110,50){\line(0,0){15}}            \put(115,50){\line(0,0){15}}
+            \put(120,50){\line(0,0){15}}            \put(125,50){\line(0,0){15}}
+            \put(130,50){\line(0,0){15}}
+            \put(135,50){\line(0,0){15}}
+            \put(140,50){\line(0,0){15}}            \put(145,50){\line(0,0){15}}
+            \put(150,50){\line(0,0){15}}
+            \put(155,50){\line(0,0){15}}
+            \put(160,50){\line(0,0){15}}
+            \put(165,50){\line(0,0){15}}
+            \put(170,50){\line(0,0){15}}
+            \put(175,50){\line(0,0){15}}
+            \put(180,50){\line(0,0){15}}
+            %Garaz
+            \put(95,45){\line(1,0){80}}
+            \put(95,15){\line(0,0){30}}
+            \put(175,15){\line(0,0){30}}
+            \put(95,35){\line(1,0){80}}
+            \put(95,25){\line(1,0){80}}
+
+        \end{picture}
+        \caption{Vektorový obrázek}
+        \end{center}
+    \end{figure}
+\end{landscape}
+
+\end{document}
+

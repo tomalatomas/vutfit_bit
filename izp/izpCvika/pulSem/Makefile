@@ -1,0 +1,8 @@
+CC=gcc
+CFLAGS=-std=c99 -Wall -Wextra -g -pedantic
+PROJ=pointery
+
+all: $(PROJ).c
+	$(CC) $(CFLAGS) $(PROJ).c -o $(PROJ)
+
+

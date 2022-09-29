@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main(){
+int world = 666;
+int cisloAdd =333;
+char retezec[]="Hello world";
+printf("%s %d \n",retezec, world);
+world += cisloAdd;
+printf("The world %d has vanished\n", world);
+return 0;
+}
