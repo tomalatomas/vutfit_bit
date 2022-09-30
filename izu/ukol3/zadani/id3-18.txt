@@ -1,0 +1,34 @@
+
+attributes {
+    myarmy : small medium large
+    enemyarmy : small medium large
+    betrayal : possible impossible
+    enemybetrayal : possible impossible
+    expected : true false
+}
+
+classes {
+    Y
+    M
+    N
+}
+
+objects {
+    1 Y small small possible impossible true
+    2 Y small small impossible impossible false
+    3 Y medium small possible possible false
+    4 M small small impossible impossible true
+    5 M large small impossible impossible true
+    6 N medium small impossible impossible true
+    7 N large medium impossible impossible true
+    8 N medium medium possible possible true
+    9 M small large impossible possible false
+    10 M medium large possible possible false
+    11 M large large impossible possible false
+    12 M small medium possible impossible false
+}
+
+questions {
+    1 large large impossible possible true
+}
+

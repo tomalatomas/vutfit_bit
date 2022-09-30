@@ -1,0 +1,14 @@
+
+.DS_Store
+WarehouseSimulator/.idea/*
+WarehouseSimulator/.idea/libraries/lib.xml
+WarehouseSimulator/.idea/libraries/lib.xml
+WarehouseSimulator/.idea/misc.xml
+WarehouseSimulator/.idea/misc.xml
+WarehouseSimulator/out/*
+WarehouseSimulator/out/production/*
+WarehouseSimulator/WarehouseSimulator.iml
+WarehouseSimulator/.idea/libraries/lib.xml
+*.class
+*.class
+*.class

@@ -1,0 +1,53 @@
+{
+  "states" : [
+    "S",
+    "AB",
+    "C",
+    "D"
+  ],
+  "symbols" : [
+    "a",
+    "b",
+    "c"
+  ],
+  "transitions" : [
+    {
+    "with" : "a",
+    "to" : "AB",
+    "from" : "S"
+    },
+    {
+    "with" : "a",
+    "to" : "D",
+    "from" : "S"
+    },
+    {
+      "with" : "b",
+      "to" : "AB",
+      "from" : "S"
+    }, {
+      "with" : "a",
+      "to" : "AB",
+      "from" : "AB"
+    },
+    {
+      "with" : "b",
+      "to" : "AB",
+      "from" : "AB"
+    },
+    {
+      "with" : "c",
+      "to" : "C",
+      "from" : "AB"
+    },
+    {
+      "with" : "c",
+      "to" : "C",
+      "from" : "C"
+    }
+  ],
+  "initialState" : "S",
+  "finalStates" : [
+    "C"
+  ]
+}

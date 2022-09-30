@@ -1,0 +1,53 @@
+<project name="WarehouseSimulator" basedir="." default="compile">
+
+  <path id="classpath">
+    <fileset dir="lib" includes="**/*.jar"/>
+  </path>
+
+  <!--CLEAN-->
+  <target name="clean" description="Deletes generated files">
+    <delete dir="build" />
+    <delete dir="dest" />
+    <delete dir="out" />
+    <delete dir="doc" />
+    <delete dir="out" />
+  </target>
+  <!--INIT-->
+  <target name="init">
+    <mkdir dir="build" />
+    <mkdir dir="dest" />
+  </target>
+  <!--COMPILE-->
+  <target name="compile" depends="clean,init,doc">
+    <mkdir dir="build"/>
+    <javac srcdir="src" destdir="build" debug="true" includeantruntime="false" classpathref="classpath"/>
+    <copy todir="build">
+      <fileset dir="src" includes="**/*.fxml"/>
+    </copy>
+    <mkdir dir="dest"/>
+    <jar destfile="dest/ija-app.jar" basedir="build">
+      <manifest><attribute name="Main-Class" value="main.Main"/></manifest>
+    </jar>
+  </target>
+
+  <!--RUN-->
+  <target name="run">
+    <java fork="true" classname="main.Main">
+      <classpath>
+        <path refid="classpath"/>
+        <path location="dest/ija-app.jar"/>
+      </classpath>
+    </java>
+  </target>
+
+  <target name="doc">
+    <javadoc sourcepath="src" destdir="doc">
+      <classpath>
+        <fileset dir="lib">
+          <include name="json-simple-1.1.1.jar"/>
+        </fileset>
+      </classpath>
+    </javadoc>
+  </target>
+
+</project>

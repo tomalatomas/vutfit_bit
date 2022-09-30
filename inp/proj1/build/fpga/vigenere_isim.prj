@@ -1,0 +1,2 @@
+vhdl work "../../fpga/vigenere.vhd"
+vhdl work "../../fpga/sim/tb.vhd"

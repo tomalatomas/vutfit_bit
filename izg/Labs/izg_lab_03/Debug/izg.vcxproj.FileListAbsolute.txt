@@ -1,0 +1,2 @@
+C:\Users\Tomáš\Documents\GitHub\vutfit_izg\Labs\izg_lab_03\Debug\izg.exe
+C:\Users\Tomáš\Documents\GitHub\vutfit_izg\Labs\izg_lab_03\Debug\izg.pdb

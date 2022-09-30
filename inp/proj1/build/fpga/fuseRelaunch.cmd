@@ -1,0 +1,1 @@
+-intstyle "ise" --timeprecision_vhdl "1ps" -incremental -o "vigenere_isim" -prj "vigenere_isim.prj" "testbench" 

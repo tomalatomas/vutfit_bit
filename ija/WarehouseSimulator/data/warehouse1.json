@@ -1,0 +1,4088 @@
+{
+    "loadingPlace" : [224,225,240,241],
+    "shelf" : [
+        17,18,20,21,23,24,26,27,29,30,
+        33,34,36,37,39,40,42,43,45,46,
+        49,50,52,53,55,56,58,59,61,62,
+        65,66,68,69,71,72,74,75,77,78,
+        81,82,84,85,87,88,90,91,93,94,
+        97,98,100,101,103,104,106,107,109,110,
+        113,114,116,117,119,120,122,123,125,126,
+        129,130,132,133,135,136,138,139,141,142,
+        145,146,148,149,151,152,154,155,157,158,
+        161,162,164,165,167,168,170,171,173,174,
+        177,178,180,181,183,184,186,187,189,190,
+        193,194,196,197,199,200,202,203,205,206
+    ],
+    "shelfContents" : [
+        {
+            "id": 17,
+            "content": [
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 60
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 46
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 71
+                },
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 79
+                },
+                {
+                    "name": "Fujifilm Instax Mini 9",
+                    "quantity": 43
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 65
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "content": [
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 58
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 97
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 46
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 69
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 86
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "content": [
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 100
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 68
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 21
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 29
+                },
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 51
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "content": [
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 38
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 66
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 31
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 35
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 23
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 13
+                },
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 3
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 77
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 52
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "content": [
+                {
+                    "name": "Playstation 5",
+                    "quantity": 54
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 57
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 32
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 38
+                },
+                {
+                    "name": "Apple AirPods 2019",
+                    "quantity": 50
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 52
+                },
+                {
+                    "name": "Apple AirPods 2019",
+                    "quantity": 23
+                },
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 68
+                },
+                {
+                    "name": "Vtech Kidizoom Duo MX 5.0",
+                    "quantity": 62
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "content": [
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 40
+                },
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 46
+                },
+                {
+                    "name": "Huawei USB LTE E3372H",
+                    "quantity": 85
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 75
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 10
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 38
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "content": [
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 49
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 41
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 31
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 28
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "content": [
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 51
+                },
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 47
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 72
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 71
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 29
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 79
+                },
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 85
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 78
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "content": [
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 54
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 56
+                },
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 100
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 67
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 24
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 40
+                },
+                {
+                    "name": "Niceboy STREAM PRO",
+                    "quantity": 81
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "content": [
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 49
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 14
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 43
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 82
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 43
+                },
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 89
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 28
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "content": [
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 62
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 24
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 20
+                },
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 30
+                },
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 37
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 8
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "content": [
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 82
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 60
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 86
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 84
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 46
+                },
+                {
+                    "name": "Fujifilm Instax Mini 9",
+                    "quantity": 94
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 59
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "content": [
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 42
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 66
+                },
+                {
+                    "name": "Vtech Kidizoom Duo MX 5.0",
+                    "quantity": 89
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 93
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 65
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 23
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 78
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "content": [
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 62
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 20
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 64
+                },
+                {
+                    "name": "Apple AirPods 2019",
+                    "quantity": 68
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 55
+                },
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 88
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "content": [
+                {
+                    "name": "Evolveo TDE HDO",
+                    "quantity": 71
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 74
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 83
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 90
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 70
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 63
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 9
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 75
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 40
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "content": [
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 17
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 32
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 55
+                },
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 16
+                },
+                {
+                    "name": "LG SN4",
+                    "quantity": 14
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 97
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "content": [
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 60
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 80
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 61
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 14
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 93
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 79
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "content": [
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 93
+                },
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 85
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 45
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 8
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 5
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 48
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "content": [
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 64
+                },
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 7
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 7
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 2
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 81
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 23
+                },
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 41
+                },
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 99
+                },
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 72
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 27
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "content": [
+                {
+                    "name": "Evolveo TDE HDO",
+                    "quantity": 55
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 1
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 73
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 77
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 83
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "content": [
+                {
+                    "name": "Niceboy STREAM PRO",
+                    "quantity": 26
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 44
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 3
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 61
+                },
+                {
+                    "name": "Fujifilm Instax Mini 9",
+                    "quantity": 52
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 34
+                },
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 90
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 68
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 64
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "content": [
+                {
+                    "name": "Fujifilm Instax Mini 9",
+                    "quantity": 95
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 6
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 92
+                },
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 78
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 60
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 76
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 10
+                },
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 28
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 76
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 61
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "content": [
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 25
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 41
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 15
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 7
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 56
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 26
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "content": [
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 13
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 49
+                },
+                {
+                    "name": "Evolveo TDE HDO",
+                    "quantity": 19
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 50
+                },
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 23
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 46
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 62
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 9
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "content": [
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 22
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 58
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 58
+                },
+                {
+                    "name": "Huawei USB LTE E3372H",
+                    "quantity": 81
+                },
+                {
+                    "name": "Vtech Kidizoom Duo MX 5.0",
+                    "quantity": 74
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "content": [
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 22
+                },
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 23
+                },
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 50
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 49
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 68
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 1
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 57
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "content": [
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 30
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 62
+                },
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 20
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 59
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 77
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 60
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "content": [
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 7
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 46
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 91
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 45
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 59
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 39
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "content": [
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 97
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 97
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 81
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 56
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 22
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 51
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "content": [
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 6
+                },
+                {
+                    "name": "LG SN4",
+                    "quantity": 96
+                },
+                {
+                    "name": "Niceboy STREAM PRO",
+                    "quantity": 37
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 93
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 97
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 65
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 9
+                },
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 39
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "content": [
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 62
+                },
+                {
+                    "name": "Huawei USB LTE E3372H",
+                    "quantity": 52
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 44
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 28
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 86
+                },
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 77
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "content": [
+                {
+                    "name": "Niceboy STREAM PRO",
+                    "quantity": 2
+                },
+                {
+                    "name": "LG SN4",
+                    "quantity": 78
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 6
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 37
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 55
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 68
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 74
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "content": [
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 98
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 55
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 99
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 55
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 28
+                },
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 21
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 16
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 53
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 76
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "content": [
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 56
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 35
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 77
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 80
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 66
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 61
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "content": [
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 85
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 86
+                },
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 15
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 71
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 93
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "content": [
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 10
+                },
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 48
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 31
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 92
+                },
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 51
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "content": [
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 73
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 29
+                },
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 14
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 94
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 68
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 58
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 40
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 14
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "content": [
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 3
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 23
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 43
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 2
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 16
+                },
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 7
+                },
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 94
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 16
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 73
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "content": [
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 17
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 2
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 27
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 89
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 10
+                },
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "content": [
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 78
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 46
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 23
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 92
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 93
+                },
+                {
+                    "name": "LG SN4",
+                    "quantity": 54
+                },
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 8
+                },
+                {
+                    "name": "LG SN4",
+                    "quantity": 77
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "content": [
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 77
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 15
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 77
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 3
+                },
+                {
+                    "name": "Fujifilm Instax Mini 9",
+                    "quantity": 29
+                },
+                {
+                    "name": "Apple AirPods 2019",
+                    "quantity": 37
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "content": [
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 66
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 64
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 6
+                },
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 13
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 10
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 75
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 82
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 9
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 51
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 36
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "content": [
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 60
+                },
+                {
+                    "name": "Huawei USB LTE E3372H",
+                    "quantity": 15
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 27
+                },
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 63
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 13
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "content": [
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 71
+                },
+                {
+                    "name": "Fujifilm Instax Mini 9",
+                    "quantity": 82
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 31
+                },
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 15
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 58
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "content": [
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 47
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 3
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 96
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 26
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 41
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 90
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "content": [
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 87
+                },
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 98
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 61
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 67
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 54
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 50
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 71
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 79
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 17
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 64
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "content": [
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 54
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 52
+                },
+                {
+                    "name": "Huawei USB LTE E3372H",
+                    "quantity": 56
+                },
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 84
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 29
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 9
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 69
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 20
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "content": [
+                {
+                    "name": "Vtech Kidizoom Duo MX 5.0",
+                    "quantity": 59
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 45
+                },
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 90
+                },
+                {
+                    "name": "Apple AirPods 2019",
+                    "quantity": 10
+                },
+                {
+                    "name": "Huawei USB LTE E3372H",
+                    "quantity": 59
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 94
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 33
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 26
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "content": [
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 31
+                },
+                {
+                    "name": "LG SN4",
+                    "quantity": 86
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 36
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 56
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 6
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 67
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 5
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 80
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "content": [
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 6
+                },
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 94
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 4
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 24
+                },
+                {
+                    "name": "Huawei USB LTE E3372H",
+                    "quantity": 53
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "content": [
+                {
+                    "name": "Vtech Kidizoom Duo MX 5.0",
+                    "quantity": 9
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 36
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 67
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 20
+                },
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 16
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "content": [
+                {
+                    "name": "Fujifilm Instax Mini 9",
+                    "quantity": 97
+                },
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 59
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 59
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 94
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 16
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "content": [
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 21
+                },
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 42
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 48
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 61
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 62
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 73
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 6
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 40
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 27
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 9
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "content": [
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 54
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 3
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 40
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 92
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 20
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 97
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 23
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 60
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "content": [
+                {
+                    "name": "LG SN4",
+                    "quantity": 42
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 55
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 28
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 25
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 20
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 63
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 34
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 56
+                },
+                {
+                    "name": "LG SN4",
+                    "quantity": 96
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "content": [
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 25
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 90
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 57
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 35
+                },
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 84
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 42
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 39
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "content": [
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 2
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 99
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 91
+                },
+                {
+                    "name": "Apple AirPods 2019",
+                    "quantity": 34
+                },
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 36
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 55
+                },
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 21
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 44
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 88
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 28
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "content": [
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 83
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 84
+                },
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 79
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 63
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 43
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 68
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 61
+                },
+                {
+                    "name": "Evolveo TDE HDO",
+                    "quantity": 32
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 37
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "content": [
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 89
+                },
+                {
+                    "name": "LG SN4",
+                    "quantity": 22
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 78
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 20
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 52
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "content": [
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 65
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 32
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 37
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 7
+                },
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 69
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 52
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 40
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 94
+                },
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 76
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "content": [
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 6
+                },
+                {
+                    "name": "Vtech Kidizoom Duo MX 5.0",
+                    "quantity": 36
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 49
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 11
+                },
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 49
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 26
+                },
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 63
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "content": [
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 78
+                },
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 30
+                },
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 5
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 97
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 43
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 84
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "content": [
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 16
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 12
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 28
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 59
+                },
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 51
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "content": [
+                {
+                    "name": "LG SN4",
+                    "quantity": 91
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 89
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 33
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 56
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 37
+                },
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 32
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 48
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 53
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 43
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 75
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "content": [
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 47
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 68
+                },
+                {
+                    "name": "Vtech Kidizoom Duo MX 5.0",
+                    "quantity": 45
+                },
+                {
+                    "name": "Niceboy STREAM PRO",
+                    "quantity": 72
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 42
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 37
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "content": [
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 49
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 58
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 94
+                },
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 12
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 70
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 57
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 42
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 23
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "content": [
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 35
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 73
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 100
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 17
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 7
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 52
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 99
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "content": [
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 15
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 66
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 14
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 72
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 37
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 31
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 36
+                },
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 17
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "content": [
+                {
+                    "name": "LG SN4",
+                    "quantity": 98
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 95
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 25
+                },
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 19
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 26
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 40
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 92
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "content": [
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 63
+                },
+                {
+                    "name": "Fujifilm Instax Mini 9",
+                    "quantity": 51
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 48
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 79
+                },
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 63
+                }
+            ]
+        },
+        {
+            "id": 129,
+            "content": [
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 91
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 80
+                },
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 93
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 43
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 14
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 38
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 96
+                },
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 69
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 69
+                }
+            ]
+        },
+        {
+            "id": 130,
+            "content": [
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 35
+                },
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 98
+                },
+                {
+                    "name": "Fujifilm Instax Mini 9",
+                    "quantity": 8
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 78
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 75
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 37
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 40
+                }
+            ]
+        },
+        {
+            "id": 132,
+            "content": [
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 23
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 57
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 79
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 87
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 98
+                },
+                {
+                    "name": "Fujifilm Instax Mini 9",
+                    "quantity": 32
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 90
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 40
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 46
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 62
+                }
+            ]
+        },
+        {
+            "id": 133,
+            "content": [
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 83
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 29
+                },
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 36
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 25
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 20
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 99
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 97
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 8
+                }
+            ]
+        },
+        {
+            "id": 135,
+            "content": [
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 35
+                },
+                {
+                    "name": "Huawei USB LTE E3372H",
+                    "quantity": 17
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 31
+                },
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 62
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 18
+                }
+            ]
+        },
+        {
+            "id": 136,
+            "content": [
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 31
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 62
+                },
+                {
+                    "name": "Apple AirPods 2019",
+                    "quantity": 39
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 89
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 64
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 7
+                }
+            ]
+        },
+        {
+            "id": 138,
+            "content": [
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 50
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 54
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 86
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 16
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 91
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 73
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 84
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 43
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 66
+                },
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 72
+                }
+            ]
+        },
+        {
+            "id": 139,
+            "content": [
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 36
+                },
+                {
+                    "name": "Vtech Kidizoom Duo MX 5.0",
+                    "quantity": 10
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 98
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 56
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 66
+                },
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 17
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 75
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 12
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 77
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 15
+                }
+            ]
+        },
+        {
+            "id": 141,
+            "content": [
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 9
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 60
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 52
+                },
+                {
+                    "name": "Vtech Kidizoom Duo MX 5.0",
+                    "quantity": 10
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 65
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 100
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 10
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 31
+                }
+            ]
+        },
+        {
+            "id": 142,
+            "content": [
+                {
+                    "name": "Evolveo TDE HDO",
+                    "quantity": 44
+                },
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 39
+                },
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 64
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 67
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 34
+                }
+            ]
+        },
+        {
+            "id": 145,
+            "content": [
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 82
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 91
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 86
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 88
+                },
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 96
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 54
+                }
+            ]
+        },
+        {
+            "id": 146,
+            "content": [
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 67
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 7
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 73
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 40
+                },
+                {
+                    "name": "Evolveo TDE HDO",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 74
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 57
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 14
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 75
+                },
+                {
+                    "name": "Vtech Kidizoom Duo MX 5.0",
+                    "quantity": 16
+                }
+            ]
+        },
+        {
+            "id": 148,
+            "content": [
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 100
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 28
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 54
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 30
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 72
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 83
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 77
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 94
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 38
+                }
+            ]
+        },
+        {
+            "id": 149,
+            "content": [
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 96
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 92
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 19
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 79
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 7
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 64
+                },
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 3
+                },
+                {
+                    "name": "Apple AirPods 2019",
+                    "quantity": 90
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 38
+                }
+            ]
+        },
+        {
+            "id": 151,
+            "content": [
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 40
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 19
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 2
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 78
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 1
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 74
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 35
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 100
+                },
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 37
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 75
+                }
+            ]
+        },
+        {
+            "id": 152,
+            "content": [
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 20
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 17
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 56
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 90
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 45
+                }
+            ]
+        },
+        {
+            "id": 154,
+            "content": [
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 83
+                },
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 59
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 13
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 68
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 82
+                },
+                {
+                    "name": "Niceboy STREAM PRO",
+                    "quantity": 90
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 37
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 56
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 21
+                }
+            ]
+        },
+        {
+            "id": 155,
+            "content": [
+                {
+                    "name": "Playstation 5",
+                    "quantity": 5
+                },
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 43
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 14
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 39
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 75
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 10
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 2
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 15
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 74
+                }
+            ]
+        },
+        {
+            "id": 157,
+            "content": [
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 74
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 36
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 80
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 22
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 77
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 51
+                }
+            ]
+        },
+        {
+            "id": 158,
+            "content": [
+                {
+                    "name": "Evolveo TDE HDO",
+                    "quantity": 59
+                },
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 96
+                },
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 58
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 15
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 63
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 28
+                },
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 43
+                }
+            ]
+        },
+        {
+            "id": 161,
+            "content": [
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 1
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 67
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 33
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 40
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 21
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 13
+                }
+            ]
+        },
+        {
+            "id": 162,
+            "content": [
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 41
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 15
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 63
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 39
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 21
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 59
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 97
+                }
+            ]
+        },
+        {
+            "id": 164,
+            "content": [
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 95
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 72
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 58
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 21
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 87
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 44
+                }
+            ]
+        },
+        {
+            "id": 165,
+            "content": [
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 12
+                },
+                {
+                    "name": "Vtech Kidizoom Duo MX 5.0",
+                    "quantity": 90
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 50
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 2
+                },
+                {
+                    "name": "Niceboy STREAM PRO",
+                    "quantity": 83
+                }
+            ]
+        },
+        {
+            "id": 167,
+            "content": [
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 96
+                },
+                {
+                    "name": "Huawei USB LTE E3372H",
+                    "quantity": 68
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 5
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 77
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 15
+                }
+            ]
+        },
+        {
+            "id": 168,
+            "content": [
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 90
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 64
+                },
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 7
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 21
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 17
+                },
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 62
+                }
+            ]
+        },
+        {
+            "id": 170,
+            "content": [
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 93
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 57
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 68
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 20
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 95
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 6
+                },
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 42
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 54
+                }
+            ]
+        },
+        {
+            "id": 171,
+            "content": [
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 64
+                },
+                {
+                    "name": "Sony PlayStation 5 DualSense Charging Station",
+                    "quantity": 14
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 65
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 95
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 31
+                },
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 67
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 30
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 28
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 20
+                }
+            ]
+        },
+        {
+            "id": 173,
+            "content": [
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 41
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 97
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 27
+                },
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 72
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 70
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 72
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 65
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 88
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 8
+                }
+            ]
+        },
+        {
+            "id": 174,
+            "content": [
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 35
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 76
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 73
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 81
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 50
+                },
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 11
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 40
+                },
+                {
+                    "name": "Evolveo TDE HDO",
+                    "quantity": 21
+                }
+            ]
+        },
+        {
+            "id": 177,
+            "content": [
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 6
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 55
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 72
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 19
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 84
+                }
+            ]
+        },
+        {
+            "id": 178,
+            "content": [
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 96
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 29
+                },
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 72
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 27
+                },
+                {
+                    "name": "Apple AirPods 2019",
+                    "quantity": 99
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 26
+                }
+            ]
+        },
+        {
+            "id": 180,
+            "content": [
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 19
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 76
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 28
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 61
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "id": 181,
+            "content": [
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 17
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 50
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 90
+                },
+                {
+                    "name": "Huawei USB LTE E3372H",
+                    "quantity": 23
+                },
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 74
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 49
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 6
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 41
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 86
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "id": 183,
+            "content": [
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 25
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 52
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 73
+                },
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 58
+                },
+                {
+                    "name": "LG SN4",
+                    "quantity": 89
+                },
+                {
+                    "name": "Evolveo TDE HDO",
+                    "quantity": 49
+                }
+            ]
+        },
+        {
+            "id": 184,
+            "content": [
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 63
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 68
+                },
+                {
+                    "name": "Fujifilm Instax Mini 9",
+                    "quantity": 52
+                },
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 10
+                },
+                {
+                    "name": "Asus RT-AC57U v3",
+                    "quantity": 16
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 95
+                },
+                {
+                    "name": "MSI GeForce GTX 1650 VENTUS XS D6 4G",
+                    "quantity": 3
+                },
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 48
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 51
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 53
+                }
+            ]
+        },
+        {
+            "id": 186,
+            "content": [
+                {
+                    "name": "Auna Linie-300 PL-5.1",
+                    "quantity": 89
+                },
+                {
+                    "name": "LG SN4",
+                    "quantity": 78
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 90
+                },
+                {
+                    "name": "Evolveo TDE HDO",
+                    "quantity": 97
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 88
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 59
+                }
+            ]
+        },
+        {
+            "id": 187,
+            "content": [
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 81
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 4
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 76
+                },
+                {
+                    "name": "LG SN4",
+                    "quantity": 10
+                },
+                {
+                    "name": "Huawei USB LTE E3372H",
+                    "quantity": 8
+                }
+            ]
+        },
+        {
+            "id": 189,
+            "content": [
+                {
+                    "name": "Fujifilm Instax Mini 9",
+                    "quantity": 24
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 75
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 4
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 51
+                },
+                {
+                    "name": "Apple AirPods 2019",
+                    "quantity": 49
+                },
+                {
+                    "name": "Niceboy STREAM PRO",
+                    "quantity": 69
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 24
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 99
+                }
+            ]
+        },
+        {
+            "id": 190,
+            "content": [
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 11
+                },
+                {
+                    "name": "Panasonic Lumix DC-G100",
+                    "quantity": 63
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 37
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 30
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 4
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 6
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 83
+                },
+                {
+                    "name": "Apple AirPods 2019",
+                    "quantity": 34
+                }
+            ]
+        },
+        {
+            "id": 193,
+            "content": [
+                {
+                    "name": "ZTE H267A",
+                    "quantity": 53
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 92
+                },
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 46
+                },
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 44
+                },
+                {
+                    "name": "EVOLVEO FitBand B5",
+                    "quantity": 96
+                },
+                {
+                    "name": "Apple AirPods 2019",
+                    "quantity": 3
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 3
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 84
+                },
+                {
+                    "name": "Auna Roadie",
+                    "quantity": 27
+                }
+            ]
+        },
+        {
+            "id": 194,
+            "content": [
+                {
+                    "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+                    "quantity": 42
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 46
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 48
+                },
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 10
+                },
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 84
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 75
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 34
+                }
+            ]
+        },
+        {
+            "id": 196,
+            "content": [
+                {
+                    "name": "WD Elements Portable 1TB WDBUZG0010BBK-WESN",
+                    "quantity": 17
+                },
+                {
+                    "name": "Raspberry Pi 6mm f/1.2 CS",
+                    "quantity": 80
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 26
+                },
+                {
+                    "name": "Niceboy STREAM PRO",
+                    "quantity": 94
+                },
+                {
+                    "name": "Asus UM431DA-AM003T",
+                    "quantity": 71
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 74
+                }
+            ]
+        },
+        {
+            "id": 197,
+            "content": [
+                {
+                    "name": "Levenhuk LabZZ M101",
+                    "quantity": 46
+                },
+                {
+                    "name": "LG SN4",
+                    "quantity": 4
+                },
+                {
+                    "name": "Apple iPhone SE",
+                    "quantity": 43
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 30
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 56
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 53
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 24
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 86
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 67
+                }
+            ]
+        },
+        {
+            "id": 199,
+            "content": [
+                {
+                    "name": "ASUS VG279QM",
+                    "quantity": 46
+                },
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 43
+                },
+                {
+                    "name": "Olympus 8x40 DPS I",
+                    "quantity": 74
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 68
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 29
+                },
+                {
+                    "name": "Niceboy VOICE Call PRO",
+                    "quantity": 10
+                },
+                {
+                    "name": "LG AN-MR20GA",
+                    "quantity": 69
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 59
+                }
+            ]
+        },
+        {
+            "id": 200,
+            "content": [
+                {
+                    "name": "Total Commander licence",
+                    "quantity": 23
+                },
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 45
+                },
+                {
+                    "name": "Apple Macbook Air 2020 Space Grey MGN63CZ/A",
+                    "quantity": 67
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 75
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 91
+                },
+                {
+                    "name": "TP-Link TL-SF1005D",
+                    "quantity": 92
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 34
+                }
+            ]
+        },
+        {
+            "id": 202,
+            "content": [
+                {
+                    "name": "Microsoft Windows 10 Home 32/64-Bit",
+                    "quantity": 42
+                },
+                {
+                    "name": "Sony DualShock 4 V2",
+                    "quantity": 21
+                },
+                {
+                    "name": "Panasonic TX-58HX810E",
+                    "quantity": 63
+                },
+                {
+                    "name": "HP 652 F6V25AE",
+                    "quantity": 24
+                },
+                {
+                    "name": "Strong SRT 2023",
+                    "quantity": 45
+                },
+                {
+                    "name": "Apple iPhone 12 mini 64GB",
+                    "quantity": 84
+                }
+            ]
+        },
+        {
+            "id": 203,
+            "content": [
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 57
+                },
+                {
+                    "name": "Lenovo IdeaPad Gaming 3 82EY00LJCK",
+                    "quantity": 96
+                },
+                {
+                    "name": "Samsung Galaxy A51 A515F Dual SIM",
+                    "quantity": 56
+                },
+                {
+                    "name": "Samsung RB30J3215SA",
+                    "quantity": 29
+                },
+                {
+                    "name": "Adobe Photoshop/Premiere Elements 2021",
+                    "quantity": 58
+                },
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 50
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 89
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "content": [
+                {
+                    "name": "Xiaomi Poco X3 6GB",
+                    "quantity": 77
+                },
+                {
+                    "name": "AMD Ryzen 5 5600X 100-100000065BOX",
+                    "quantity": 67
+                },
+                {
+                    "name": "HP 250 G7 14Z99EA",
+                    "quantity": 28
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 3
+                },
+                {
+                    "name": "Xiaomi Mi Band 5",
+                    "quantity": 52
+                },
+                {
+                    "name": "Niceboy HIVE Pods 2",
+                    "quantity": 69
+                },
+                {
+                    "name": "TP-Link TL-WA854RE",
+                    "quantity": 9
+                }
+            ]
+        },
+        {
+            "id": 206,
+            "content": [
+                {
+                    "name": "Vtech Kidizoom Duo MX 5.0",
+                    "quantity": 99
+                },
+                {
+                    "name": "Panasonic TY-ER3D5ME",
+                    "quantity": 7
+                },
+                {
+                    "name": "TP-Link Tapo C200",
+                    "quantity": 50
+                },
+                {
+                    "name": "TP-Link Tapo C310",
+                    "quantity": 90
+                },
+                {
+                    "name": "DENON AVR-S960H",
+                    "quantity": 64
+                },
+                {
+                    "name": "Playstation 5",
+                    "quantity": 79
+                },
+                {
+                    "name": "HP DeskJet 2720 3XV18B",
+                    "quantity": 23
+                },
+                {
+                    "name": "Dell Latitude 3510 XX9MM",
+                    "quantity": 79
+                }
+            ]
+        }
+    ]
+
+}

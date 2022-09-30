@@ -1,0 +1,15 @@
+Prehled prolog prikladu vyskytujicich se na skousce z IZU
+
+last update: 2019/20
+
+-------------------------------------------------
+
+A -  index nejvetsiho prvku linearniho seznamu
+B -  previest linearny zoznam prvkov na mnozinu
+C -  AtomicMax
+D -  soucet prvnich dvou prvku a dvou poslednich prvku lin. seznamu 
+     (seznam obsahuje alepon 2 prvky)
+E -  sjednoceni mnozin
+F -  sjednnoceni dvou mnozin, prunik s vysledku s treti mnozinou
+G -  sjednoceni mnoziny s prunikem dvou mnozin
+H -  soucet nejmensiho a nejvetsiho prvku linearniho seznamu

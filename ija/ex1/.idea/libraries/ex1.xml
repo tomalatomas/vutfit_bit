@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ex1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ija2020-ukol1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/uk1_fixed.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
