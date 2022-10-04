@@ -6,7 +6,7 @@
 
 ____
 
-- **[1BIT]([link1BIT](https://github.com/tomalatomas/vutfit_bit/tree/1BIT/))** (2019/2020)
+- **[1BIT](https://github.com/tomalatomas/vutfit_bit/tree/1BIT/)** (2019/2020)
   - **winter**
     - [x] IDM - Discrete Mathematics
     - [x] IEL - Electronics for Information Technology
