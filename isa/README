@@ -1,0 +1,14 @@
+POP3 client that allows unsecured connection or secured connection via TLS or SSL.
+USAGE: popcl <server> [-p <port>] [-T|-S [-c <certfile>] [-C <certaddr>]] [-d] [-n] -a <auth_file> -o <out_dir>
+	where: 	<server> - address of server
+		[-p <port>] - optional argument, server port
+		[-T|-S] - optional argument, -T = SSL, -S = TLS
+		[-c <certfile>] - optional argument, file with certificate
+		[-C <certaddr>] - optional argument, certificate store
+		[-d] - optional argument, delete messages after read
+		[-n] - optional argument, download only locally unread messages
+		-a <auth_file> - mandatory argument, authentification file in format of "username = <>\npassword = <>"
+		-o <out_dir> - mandatory argument, existing directory to deposit email files
+
+	
+­

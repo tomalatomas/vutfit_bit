@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project outputprefix="tach">
+
+    <!--  Project description -->
+    <name>Tachometer</name>
+    <author>Tomas Tomala</author>
+    <authoremail>xtomal02@vutbr.cz </authoremail>
+    <description>Realizace jednoduchého otáčkoměru, přičemž otáčení rotoru je nahrazeno ručními stisky vybraného tlačítka na kitu.</description>
+
+    <!--  MCU part -->
+    <mcu>
+        <include>mcu/libs/keyboard/package.xml</include>
+	<include>mcu/libs/lcd/package.xml</include>
+        <file>main.c</file>
+    </mcu>
+
+    <!-- FPGA part -->
+    <fpga>
+        <include>fpga/ctrls/keyboard/package.xml</include>
+	<include>fpga/ctrls/lcd/package.xml</include>
+        <file>top_level.vhd</file>
+    </fpga>
+
+</project>

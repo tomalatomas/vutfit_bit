@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zxx">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <title>Portfolio website complete</title>
+    </head>
+    <body>
+        <!--=============NAV=============-->
+        <header>
+            <nav class="nav">
+                <div>
+                    <a href="https://www.stud.fit.vutbr.cz/~xtomal02/" class="navHeading">My Personal Portfolio</a>
+                </div>
+                <div class="navMenu">
+                    <ul class="navList">
+                        <li class="navItem"><a href="#about" class="navLink">About</a></li>
+                        <li class="dropdown">
+                            <button class="dropbtn">Experiences<i class="fa fa-chevron-down" aria-hidden="true"></i></button>
+                            <ul class="dropdown-content">
+                                <li class="navItem"><a href="#education" class="navLink">Education</a></li>
+                                <li class="navItem"><a href="#profi" class="navLink">Professional</a></li>
+                            </ul>
+                        </li>
+                        <li class="navItem experience"><a href="#education" class="navLink">Education</a></li>
+                        <li class="navItem experience"><a href="#profi" class="navLink">Professional Experience</a></li>
+                        <li class="navItem"><a href="#skills-section" class="navLink">Skills</a></li>
+                        <li class="navItem"><a href="#contact-me" class="navLink">Contact</a></li>
+                    </ul>
+                </div>
+
+                <div id="navButton">
+                    <i class="fa fa-bars"></i>
+                </div>
+            </nav>
+        </header>
+
+        <main>
+            <!--=============HERO=============-->
+            <section class="hero" id="about">
+                <div class="container">
+                    <div class="hero-profile">
+                        <h1>Fullstack Developer</h1>
+                        <h2>I do that and that and that</h2>
+                    </div>
+    
+                    <div class="hero-about">
+                        <img id="profile" src="img/profilepic.jpg" alt="Profile Picture">
+                        <h1 class="home__title">Hi, my name is Random. Welcome to my page.</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, eum reprehenderit repellendus repudiandae mollitia, sint iste velit laborum placeat omnis quos quisquam tempore natus, officia fuga quas nam neque quidem? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, eum reprehenderit repellendus repudiandae mollitia, sint iste velit laborum placeat omnis quos quisquam tempore natus, officia fuga quas nam neque quidem?</p>
+                    </div>
+                </div>
+            </section>
+
+
+            <!--=============Experince=============-->
+            <section class="experiences" id="experiences-section">
+                <div class="container">
+                    <div class="experience-edu" id="education">
+                        <h1 class="section-heading">Education</h1>
+                        <div class="experience-card">
+                            <i class="fa fa-graduation-cap" aria-hidden="true"></i>
+                            <h2>2008-2011</h2>
+                            <h1>First Education</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, eum reprehenderit repellendus repudiandae mollitia, omnis quos quisquam tempore natus, officia fuga quas nam neque quidem? </p>
+                        </div>
+                        <div class="experience-card">
+                            <i class="fa fa-graduation-cap" aria-hidden="true"></i>
+                            <h2>2011-2014</h2>
+                            <h1>Second Education</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, eum reprehenderit repellendus repudiandae mollitia, omnis quos quisquam tempore natus, officia fuga quas nam neque quidem? </p>
+                        </div>
+                    </div>
+                    <div class="experience-pro" id="profi">
+                        <h1 class="section-heading">Professional Experience</h1>
+                        <div class="experience-card">
+                            <i class="fa fa-briefcase" aria-hidden="true"></i>
+                            <h2>2015-2018</h2>
+                            <h1>First Job</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, eum reprehenderit repellendus repudiandae mollitia, omnis quos quisquam tempore natus, officia fuga quas nam neque quidem? </p>
+                        </div>
+                        <div class="experience-card">
+                            <i class="fa fa-briefcase" aria-hidden="true"></i>
+                            <h2>2016-2020</h2>
+                            <h1>Second Job</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, eum reprehenderit repellendus repudiandae mollitia, omnis quos quisquam tempore natus, officia fuga quas nam neque quidem? </p>
+                        </div>
+                        <div class="experience-card">
+                            <i class="fa fa-briefcase" aria-hidden="true"></i>
+                            <h2>2020 - ...</h2>
+                            <h1>Third Job</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, eum reprehenderit repellendus repudiandae mollitia, omnis quos quisquam tempore natus, officia fuga quas nam neque quidem? </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--=============Skills=============-->
+            <section class="skills" id="skills-section">
+                <div class="container">
+                    <div class="skills-wrapper">
+                        <div class="skill-column">
+                            <i class="fa fa-delicious" aria-hidden="true"></i>
+                            <h2>Front-End</h2>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+
+                            <h3>Things I do</h3>
+                            <p>UX, UI, Mobile Apps, Websites</p>
+
+                            <h3>Tools I use</h3>
+                            <ul class="skills-tools">
+                                <li class="tool"><p>Figma</p></li>
+                                <li class="tool"><p>Adobe XD</p></li>
+                                <li class="tool"><p>SwiftUI</p></li>
+                                <li class="tool"><p>Jetpack</p></li>
+                                <li class="tool"><p>HTML+CSS</p></li>
+                            </ul>
+                        </div>
+
+                        <div class="skill-column">
+                            <i class="fa fa-wrench" aria-hidden="true"></i>
+                            <h2>Back-End</h2>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+
+                            <h3>Things i do</h3>
+                            <p>Databases, Deployment, Stuff</p>
+
+                            <h3>Tools I use</h3>
+                            <ul class="skills-tools">
+                                <li class="tool"><p>C++</p></li>
+                                <li class="tool"><p>Swift</p></li>
+                                <li class="tool"><p>Docker</p></li>
+                                <li class="tool"><p>Rust</p></li>
+                                <li class="tool"><p>Javascript</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!--=============CONTACT=============-->
+            <section class="contact" id="contact-me">
+                <div class="container">
+                    <h1 class="section-heading">Contact Me</h1>
+                    <div class="contact-icons">
+                        <a href="https://youtu.be/dQw4w9WgXcQ"><i class="fa fa-github"></i></a>
+                        <a href="https://youtu.be/dQw4w9WgXcQ"><i class="fa fa-linkedin-square"></i></a>
+                        <a href="https://youtu.be/dQw4w9WgXcQ"><i class="fa fa-facebook-f"></i></a>
+                        <a href="https://youtu.be/dQw4w9WgXcQ"><i class="fa fa-twitter"></i></a>
+                    </div>
+                </div>
+            </section>
+
+            <footer>
+                <p><a href="https://youtu.be/oavMtUWDBTM"> 2022 &copy; Tomáš Tomala (xtomal02)</a></p>
+            </footer>
+        </main>
+
+        <!--_____SCRIPT___-->
+        <script src="app.js"></script>
+    </body>
+</html>
